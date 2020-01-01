@@ -1,5 +1,5 @@
 # Titanic-Machine-Learning-from-Disaster
-Time Series Dataset is from Kaggle: https://www.kaggle.com/c/titanic .Current code provides insights into Following basic operations:
+Dataset is from Kaggle: https://www.kaggle.com/c/titanic .Current code provides insights into Following basic operations:
 
 1) Basic insights into Data Profiling
   - Understand data using basic commands like head, shape, describe, dtypes etc.
