@@ -13,6 +13,7 @@ Dataset is from Kaggle: https://www.kaggle.com/c/titanic .Current code provides 
   - Completing : impute missing values.
   - Correcting : drop unnecessary features.  
   - Creating : create new features.
+  - Converting: convert feature value to right format. 
   
 3) Basic insights into Model Building
   - Loading the data.
