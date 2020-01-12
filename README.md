@@ -21,3 +21,4 @@ Dataset is from Kaggle: https://www.kaggle.com/c/titanic .Current code provides 
   - Model fitting.
   - Prediction.
   - Evaluate model's performance.
+  - Parameter tuning using GridSearchCV
