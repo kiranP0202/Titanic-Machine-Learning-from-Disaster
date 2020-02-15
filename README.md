@@ -1,5 +1,6 @@
-# Titanic-Machine-Learning-from-Disaster
-Dataset is from Kaggle: https://www.kaggle.com/c/titanic .Current code provides insights into Following basic operations:
+# Titanic Machine Learning from Disaster
+
+### Current repository provides insights into following basic operations:
 
 1) Basic insights into Data Profiling
   - Understand data using basic commands like head, shape, describe, dtypes etc.
