@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-from-Disaster
+# Titanic Machine Learning from Disaster
 Dataset is from Kaggle: https://www.kaggle.com/c/titanic .Current code provides insights into Following basic operations:
 
 1) Basic insights into Data Profiling
